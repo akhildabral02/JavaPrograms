@@ -4,7 +4,7 @@ import java.util.*;
 class Interchange{
 	public static void main(String args[]){
 		Scanner inp = new Scanner(System.in);
-		System.out.println("Enter the size of Element in array:");
+		System.out.println("Enter the size of Element:");
 		int size = inp.nextInt();
 		int arr[] = new int[size];
 		for(int i=0;i<size;i++)
