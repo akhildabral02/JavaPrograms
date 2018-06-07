@@ -1,4 +1,4 @@
-// Here I am going to 
+// Here I am going to count duplicate words
 
 import java.util.*;
 import java.lang.*; 
