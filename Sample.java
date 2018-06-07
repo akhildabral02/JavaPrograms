@@ -1,16 +1,10 @@
+import java.math.*;
 class Sample{
-	static int num = 100;
-	public void calc(int num){
-		num = num *2;
+	
+	public static void main(String[] args){
+		int a=4;
+		int b=2;
+		System.out.println(math.pow(a,b));
 	}
 	
-	public void printNum(){System.out.println(num);}
-	
-	public static void main(String args[]){
-		Sample s = new Sample();
-		s.calc(10);
-		s.printNum();
-		System.out.println(s.num);
-	
-	}
 }

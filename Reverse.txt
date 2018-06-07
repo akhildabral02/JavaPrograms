@@ -1,13 +1,7 @@
-import java.util.*;
 
-public class MyClass {
-    public static void main(String args[]) {
-        Scanner inp = new Scanner(System.in);
-        String user_str = inp.nextLine();
-        int len = user_str.length();
-        char reverse[] = new char[len-1];
-        for(int i=0;i<len;i++)
-            reverse[len-1] = user_str.charAt(i);
-        System.out.println("array after reversal is = " + reverse);
-    }
-}
+My name is akhil dabral
+and my email id is akhildabral@gmail.com
+
+Sometime I use my official email id adabral@adobe.com
+and sometime my personal email id akhil dabral@outlook.com
+
